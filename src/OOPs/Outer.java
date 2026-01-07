@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPs;
 
 public class Outer {
     private String msg = "Hello from Outer class";

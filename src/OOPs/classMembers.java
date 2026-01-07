@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPs;
 
 public class classMembers {
     // Static variable

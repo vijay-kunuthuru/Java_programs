@@ -1,2 +1,8 @@
-package OOPs;public class InvalidAgeException {
+package OOPs;
+
+public class InvalidAgeException extends Exception{
+    // Constructor
+    public InvalidAgeException(String message) {
+        super(message);
+    }
 }

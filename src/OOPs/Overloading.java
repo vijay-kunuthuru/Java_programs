@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPs;
 
 public class Overloading {
     public int add(int a, int b){
